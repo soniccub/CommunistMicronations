@@ -1,14 +1,21 @@
 .tabbed {
     position: relative;
-    left: 20%;
+    left: 5%;
 }
 .CommunismRed {
     color: #BD230F;
+}
+
+.centered {
+	position: relative;
+	left: 15%;
+
 }
 
 body {
 
 
     background: black;
-    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-family: "Trebuchet MS";
 }
+
