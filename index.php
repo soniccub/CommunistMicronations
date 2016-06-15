@@ -18,10 +18,10 @@
             <li><a href="">account</a></li>
             <li><a href="?faq">FAQ</a></li>
         </ul>
-        <h2 class="CommunismRed centered" >
-            This is the (main) website of the communist MicroNation
-        </h2>
     </nav>
+    <h2 class="CommunismRed centered" >
+        This is the (main) website of the communist MicroNation
+    </h2>
 
 </header>
 

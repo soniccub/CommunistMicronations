@@ -1,2 +1,2 @@
-<h1>This is the FAQ</h1>
+<h1 class="CommunismRed">This is the FAQ</h1>
 <?php
