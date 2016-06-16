@@ -98,10 +98,10 @@
 <br><br>
   <p> Question 8: What is North Korea politaclly   </p>
   <form action="">
-  <input type="radio" name="q7" value="0"> Communist<br>
-  <input type="radio" name="q7" value="0"> Socialist <br>
-  <input type="radio" name="q7" value="1"> State capitalst.<br>
-  <input type="radio" name="q7" value="0"> none of the above. <br>
+  <input type="radio" name="q8" value="0"> Communist<br>
+  <input type="radio" name="q8" value="0"> Socialist <br>
+  <input type="radio" name="q8" value="1"> State capitalst.<br>
+  <input type="radio" name="q8" value="0"> none of the above. <br>
 
 
 
