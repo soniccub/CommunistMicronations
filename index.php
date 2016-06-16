@@ -17,6 +17,8 @@
             <li><a href="?articles">articles</a></li>
             <li><a href="">account</a></li>
             <li><a href="?faq">FAQ</a></li>
+	    <li><a href="">What is Communism?</a></li>
+	    <li><a href="">
         </ul>
     </nav>
     <h2 class="CommunismRed centered" >
