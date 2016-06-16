@@ -25,12 +25,6 @@
 	font-size: 200%;
 	}
 
-	links {
-	position: absolute;
-	top: 45%;
-	left: 30%;
-
-	}
 	</style>
 
 
@@ -93,12 +87,27 @@
 
 
 <br><br>
-  <p> Question 7: What are the problems of capitalsm we are trying to fix? </p>
+  <p> Question 7: Is having a program available to all paid for by taxes socialist? </p>
   <form action="">
-  <input type="radio" name="q7" value="0"> Everybody is free and has to much money.<br>
-  <input type="radio" name="q7" value="0.5"> Money is gained by having money and you can gain it without any real labor. <br>
-  <input type="radio" name="q7" value="0.5"> The rich are too powerful and can opress the poor and workers using money. <br>
-  <input type="radio" name="q7" value="1"> both 2 and 3. <br>
+  <input type="radio" name="q7" value="1"> No<br>
+  <input type="radio" name="q7" value="0"> Yes <br>
+  <input type="radio" name="q7" value="0.5"> I am watching my cat lick a bag of cereal as I write this lmao <br>
+  <input type="radio" name="q7" value="0">  "it's a social program of course it's socialist"<br>
+
+
+<br><br>
+  <p> Question 8: What is North Korea politaclly   </p>
+  <form action="">
+  <input type="radio" name="q7" value="0"> Communist<br>
+  <input type="radio" name="q7" value="0"> Socialist <br>
+  <input type="radio" name="q7" value="1"> State capitalst.<br>
+  <input type="radio" name="q7" value="0"> none of the above. <br>
+
+
+
+
+<br><br>
+  <input type="submit" value="Submit">
 
 
 
